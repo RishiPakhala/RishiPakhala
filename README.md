@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on AMAZON
 - 📫 How to reach me pakhalarishi1@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 
 <!---
 RishiPakhala/RishiPakhala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

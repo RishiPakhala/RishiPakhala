@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RishiPakhala
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on AMAZON
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me pakhalarishi1@gmail.com
 - 😄 Pronouns: he/him.
 
